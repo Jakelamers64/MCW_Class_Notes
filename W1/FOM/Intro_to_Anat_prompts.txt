@@ -23,6 +23,8 @@ Coronal (frontal) plane – vertical plane, divides body into front and back Tra
 into top and bottom Sagittal Plane Coronal Plane Transverse Plane (midsagittal plane) Computer Tomography (CT) scan in the horizontal plane
 13 Directional Terms Superior – toward the head (top of the body) Inferior – toward the feet (bottom of the body)
 Anterior (ventral) – toward belly side (front of the body) Posterior (dorsal) – toward the back of the body II.D. Directional terms occur in pairs of opposites Image adapted from: https://termandhistology.wordpress.com/anatomy-language/anatomical-positions-planes-directions/
+
+
 Anterior (ventral) Posterior (dorsal) Superior Inferior
 }
 
@@ -38,3 +40,202 @@ Which plane divides the body into superior and inferior components?
 
 **Task**
 Your task is to create 5 more Third-order questions that require applying knowledge to clinical scenarios, often involving multiple steps to identify the correct answer. For example, a question might present a patient case and ask you to determine the likely deficits or complications based on the information
+
+
+Check for understanding prompt 2:
+
+Based on the learning objectives:
+{
+List the overall goal and general components of each body system.
+Describe how muscles act on bones to produce movement.
+}
+
+And the following content:
+{
+23
+Classification of Bones
+Long bone
+(humerus)
+Flat bone
+(sternum)
+Short bone
+(talus)
+Irregular bone
+(vertebra)
+Classified by Shape:
+• Long bones – elongated shape, most common in limbs
+• Short bones – bones of wrist (carpals) and ankle (tarsals)
+• Flat bones – typically have a protective function
+• Irregular bones – various shapes
+• Sesamoid bone – short bone embedded in tendon (ex: patella)
+Bones have markings which are evidence of attachment points for
+muscles or tendons, or grooves where neurovasculature travels
+Image from Marieb, Elaine N., Patricia Wilhelm, Jon Mallatt. Human Anatomy, 7th Edition. Pearson, 2014.
+III.A.
+24
+Articulations
+Articulations (joints) are the site of joining of
+two bones, often held together by ligaments
+All muscles crossing a particular joint produce
+movement at that joint.
+http://www.digitaltrends.com/cool-tech/3d-printed-meniscus-joints/
+III.A.
+25
+Skeletal Muscle
+https://www.sciencelearn.org.nz/resources/1919-muscle-types
+*For each muscle you learn, you will need to know the
+action of the muscle and the nerve that innervates it!
+III.A.
+Skeletal muscle functions to produce voluntary movement
+Muscles attach to bones via tendons
+• Tendon – connects muscle to bone
+• Ligament – connects bone to bone
+• Aponeurosis – broad, flat tendon
+The action of a muscle depends on its attachment points:
+• Origin – fixed attachment point of a muscle
+• Insertion – attachment of muscle that moves with
+muscle contraction
+• Action – movement resulting from contraction of a
+muscle
+26© Palm Beach State College
+Muscle Actions
+A muscle has an action at each joint it crosses
+Muscle contraction leads to shortening of the
+muscle to pull on bones
+Muscles work in groups:
+• Agonist – primary mover of an action
+• Synergist – muscle working with agonist to
+produce a movement
+• Antagonist – muscle working in opposition
+of the agonist
+Agonist (prime mover)
+For flexion at the elbow
+Antagonist
+For flexion at
+the elbow
+Synergist
+For flexion at the elbow
+Insertion
+of brachioradialis
+muscle
+Origin
+of brachioradialis
+muscle
+III.A.
+27
+Musculoskeletal System
+Bones are important for support, protection, mineral storage, and
+blood cell production
+• Axial vs appendicular skeleton
+• Classification of bones by shape
+Articulations (joints) are the site of joining of two bones, often held
+together by ligaments
+Skeletal muscles function to produce voluntary movement
+Muscle contraction leads to shortening of the muscle to pull on bones
+• Agonist – primary mover of an action
+• Synergist – muscle working with agonist to produce a movement
+• Antagonist – muscle working in opposition of the agonist
+*For each muscle you learn, you will need to know the action of the
+muscle and the nerve that innervates it!
+III.A.
+28
+Terms of Movement
+*Terms of movement also occur in pairs of opposites*
+Flexion
+• Decreasing the angle between bones at a joint
+(ex: bending leg at the knee)
+• Moved in an anterior direction (ex: bending torso forward)
+Extension
+• Increasing the angle between bones at a joint
+(ex: straightening knee)
+• Moved in a posterior direction (ex: leaning torso back)
+Figure 1.5. Clinically Oriented Anatomy, 8e
+Extension Flexion
+Flexion and extension of vertebral
+column at intervertebral joints
+Extension Flexion
+Extension
+Flexion
+Flexion and extension of
+shoulder joint and hip joint
+Flexion and extension of
+elbow joint and knee joint
+Flexion
+Extension
+See these motions in action (start at 01:30):
+https://www.youtube.com/watch?v=aRaLjN2cTYo&t=14s
+III.A.
+29
+Terms of Movement
+• Abduction – move away from the midline
+• Adduction – move toward the midline
+• Medial rotation – movement of the
+anterior surface toward the median
+• Lateral rotation – movement of the
+anterior surface away from the median
+• Circumduction – movement combining
+flexion / extension and abduction /
+adduction
+Figure 1.5. Clinically Oriented Anatomy, 8e
+Abduction
+Adduction
+AdductionAbduction Circumduction
+Medial
+rotation
+Lateral
+rotation
+Medial
+(internal)
+rotation
+Lateral
+(external)
+rotation
+Circumduction (circular movement)
+of lower limb at hip joint
+Abduction and adduction of right
+limbs and rotation of left limbs
+See these motions in action (start at 01:30):
+https://www.youtube.com/watch?v=aRaLjN2cTYo&t=14s
+III.A.
+30
+Terms of Movement
+Elevation – raise a structure
+Depression – lower a structure
+Protraction – move structure anteriorly
+Retraction – move a structure in the posterior direction
+Elevation Depression
+Figure 1.5. Clinically Oriented Anatomy, 8e
+Protraction and retraction of scapula on thoracic wall
+See these motions in action (start at 01:30):
+https://www.youtube.com/watch?v=aRaLjN2cTYo&t=14s
+III.A.
+31
+The quadriceps muscles in the thigh extend the leg at
+}
+
+And the following check for understanding practice questions:
+{
+while the hamstring muscles flex this joint. The hamstring
+muscles therefore act as ____________ to the quadriceps.
+1. Agonists
+2. Antagonists
+3. Synergists
+Check Your Understanding
+32
+Check Your Understanding
+Raising your arm out to the side is an example of which type of movement?
+1. Abduction
+2. Adduction
+3. Extension
+4. Flexion
+33
+Check Your Understanding
+Bending the torso forward is an example of which type of movement?
+1. Abduction
+2. Adduction
+3. Extension
+4. Flexion
+}
+
+**Task**
+Your task is to create 5 more Third-order questions that require applying knowledge to clinical scenarios, often involving multiple steps to identify the correct answer. Include the correct answer as well as an explanation. For example, a question might present a patient case and ask you to determine the likely deficits or complications based on the information. 
