@@ -1,0 +1,40 @@
+Check For Understanding 1 Prompt:
+
+**Based on the learning objective:**
+{
+Identify major parts of the body.
+}
+
+**Content:**
+{
+Anatomy I. Anatomy is the setting in which bodily processes take place 6 Theater set of a clinical setting Set of Hamilton Set of Elf Theater set in a doctor’s office
+The setting influences your expectations “Does this belong here?” 7 Anatomy I. Gross Anatomy • Study of structures visible to the naked eye • From the greek “anatome” meaning to cut
+or take apart • Dissection labs • Surgery, clinical imaging Histology • Study of the microscopic architecture of cells in a tissue • Virtual microscope labs • Clinical pathology
+http://www.feinberg.northwestern.edu/announcements/vesalius.html Etching from De Humani Corporis Fabrica “Does this belong here?” 8 “Anatomical terminology introduces
+and makes up a large part of medical terminology” Figure 1.1. Clinically Oriented Anatomy, 8e - Clinically Oriented Anatomy, 8e II.
+9 Naming of Anatomical Structures II. • Descriptive terms - ex: longissimus is a very long muscle of the back • Relative body position - ex: cervical; latin
+for “neck” • According to function - ex: erector spinae muscles function to straighten (erect) the vertebral column (spine) • Named after a real or mythological figure - ex: Achilles tendon)
+http://www.feinberg.northwestern.edu/announcements/vesalius.html Etching from De Humani Corporis Fabrica 10 II.A. Regional Anatomy Major parts of the body:
+• Head • Neck • Upper Limb • Thorax • Back • Abdomen • Pelvis/Perineum • Lower Limb Figure 1.1. Clinically Oriented Anatomy, 8e
+11 II.B. Anatomical Position Figure 1.1. Clinically Oriented Anatomy, 8e Anatomical position • Standing up straight or laying down as if standing
+• Feet slightly apart • Head facing forward • Palms facing front of body (supinated) All locations and movements in anatomy are
+named relative to anatomical position 12 Planes of Reference II.C. Figure 1.2. Clinically Oriented Anatomy, 8e Sagittal plane – vertical plane, divides body into left and right
+Coronal (frontal) plane – vertical plane, divides body into front and back Transverse (horizontal) plane – horizontal plane, divides body
+into top and bottom Sagittal Plane Coronal Plane Transverse Plane (midsagittal plane) Computer Tomography (CT) scan in the horizontal plane
+13 Directional Terms Superior – toward the head (top of the body) Inferior – toward the feet (bottom of the body)
+Anterior (ventral) – toward belly side (front of the body) Posterior (dorsal) – toward the back of the body II.D. Directional terms occur in pairs of opposites Image adapted from: https://termandhistology.wordpress.com/anatomy-language/anatomical-positions-planes-directions/
+Anterior (ventral) Posterior (dorsal) Superior Inferior
+}
+
+**And the following example Check for understanding questions:**
+{
+Check Your Understanding
+Which plane divides the body into superior and inferior components?
+1. Coronal
+2. Sagittal
+3. Transverse (axial)   
+17The hand is __ to the shoulder.1. Deep2. Distal3. Proximal4. Superficial    
+}
+
+**Task**
+Your task is to create 5 more Third-order questions that require applying knowledge to clinical scenarios, often involving multiple steps to identify the correct answer. For example, a question might present a patient case and ask you to determine the likely deficits or complications based on the information
