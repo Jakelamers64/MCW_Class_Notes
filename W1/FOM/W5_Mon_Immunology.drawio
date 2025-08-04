@@ -423,11 +423,66 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="mSTmqn3cuCYTXXYq5UbM-55" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mSTmqn3cuCYTXXYq5UbM-48" target="mSTmqn3cuCYTXXYq5UbM-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mSTmqn3cuCYTXXYq5UbM-48" value="Primary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="1380" width="120" height="60" as="geometry" />
+          <mxGeometry x="-100" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mSTmqn3cuCYTXXYq5UbM-51" value="Secondary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1380" width="120" height="60" as="geometry" />
+          <mxGeometry x="185" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mSTmqn3cuCYTXXYq5UbM-56" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mSTmqn3cuCYTXXYq5UbM-54" target="mSTmqn3cuCYTXXYq5UbM-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mSTmqn3cuCYTXXYq5UbM-58" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mSTmqn3cuCYTXXYq5UbM-54" target="mSTmqn3cuCYTXXYq5UbM-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mSTmqn3cuCYTXXYq5UbM-62" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mSTmqn3cuCYTXXYq5UbM-54" target="mSTmqn3cuCYTXXYq5UbM-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mSTmqn3cuCYTXXYq5UbM-54" value="Vaccination" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mSTmqn3cuCYTXXYq5UbM-57" value="Adjuvant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mSTmqn3cuCYTXXYq5UbM-59" value="Aluminum Hydroxide gel (alum) or Lipid nanoparticles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mSTmqn3cuCYTXXYq5UbM-60" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mSTmqn3cuCYTXXYq5UbM-57" target="mSTmqn3cuCYTXXYq5UbM-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mSTmqn3cuCYTXXYq5UbM-64" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mSTmqn3cuCYTXXYq5UbM-61" target="mSTmqn3cuCYTXXYq5UbM-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mSTmqn3cuCYTXXYq5UbM-68" value="lower pathogenicity" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="mSTmqn3cuCYTXXYq5UbM-64">
+          <mxGeometry x="-0.4317" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mSTmqn3cuCYTXXYq5UbM-69" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mSTmqn3cuCYTXXYq5UbM-61" target="mSTmqn3cuCYTXXYq5UbM-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mSTmqn3cuCYTXXYq5UbM-61" value="PAMP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mSTmqn3cuCYTXXYq5UbM-63" value="Live attenuated" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mSTmqn3cuCYTXXYq5UbM-66" value="mRNA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mSTmqn3cuCYTXXYq5UbM-67" value="Inactivated" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mSTmqn3cuCYTXXYq5UbM-70" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.369;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mSTmqn3cuCYTXXYq5UbM-61" target="mSTmqn3cuCYTXXYq5UbM-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mSTmqn3cuCYTXXYq5UbM-71" value="&lt;div&gt;no longer biologically&amp;nbsp;&lt;/div&gt;&lt;div&gt;activated&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="mSTmqn3cuCYTXXYq5UbM-70">
+          <mxGeometry x="-0.2254" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
