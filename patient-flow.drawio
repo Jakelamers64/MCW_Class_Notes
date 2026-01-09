@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.3.0">
   <diagram name="Page-1" id="AVJRz92s484dfxysJSxl">
-    <mxGraphModel>
+    <mxGraphModel dx="1345" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XtmWB3FqndxZTw8tvjT5-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Patient arrives, fills out forms (if needed)" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XtmWB3FqndxZTw8tvjT5-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Patient is roomed once a CC becomes available" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="XtmWB3FqndxZTw8tvjT5-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CC starts SOAP note, CC gets vitals, returns to the front to input vitals into SOAP note" vertex="1">
+          <mxGeometry height="80" width="120" x="80" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="XtmWB3FqndxZTw8tvjT5-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CC gives clipboard to checkpoint&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="XtmWB3FqndxZTw8tvjT5-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Checkpoint notifies SD through Teams that their pt is ready" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="XtmWB3FqndxZTw8tvjT5-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SD goes to see pt" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="XtmWB3FqndxZTw8tvjT5-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SD preps to present to attending and is put in a queue" vertex="1">
+          <mxGeometry height="70" width="120" x="80" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="XtmWB3FqndxZTw8tvjT5-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SD presents to attending" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="XtmWB3FqndxZTw8tvjT5-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Attending wants referral and fills out referral w/ checkpoint manager" vertex="1">
+          <mxGeometry height="80" width="120" x="240" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="XtmWB3FqndxZTw8tvjT5-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Attending wants labs done, goes to lab manager" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="XtmWB3FqndxZTw8tvjT5-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Attending orders meds&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="XtmWB3FqndxZTw8tvjT5-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SD hands off medication order to diespensary" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XtmWB3FqndxZTw8tvjT5-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dispensary gives the script to the pharmacist so that the pharmacist can double check" vertex="1">
+          <mxGeometry height="80" width="120" x="520" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XtmWB3FqndxZTw8tvjT5-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Once pharmacist double checks, pharmacist gives script to dispensary volunteers&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="120" x="520" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="XtmWB3FqndxZTw8tvjT5-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dispensary volunteers fill meds" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="XtmWB3FqndxZTw8tvjT5-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Second pass w/ the filled meds before the pharmacist signs off to give the meds to the patient" vertex="1">
+          <mxGeometry height="80" width="120" x="520" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="XtmWB3FqndxZTw8tvjT5-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SD collects meds from pharmacy to give to patient" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="XtmWB3FqndxZTw8tvjT5-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SD and pharmacy student go in to give medication counsel to the pt" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="XtmWB3FqndxZTw8tvjT5-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pt gets vaccine(s), if needed" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="XtmWB3FqndxZTw8tvjT5-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SD walks the pt out to schedule f/u appt with front desk" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="880" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
