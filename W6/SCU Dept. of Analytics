@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.3.1">
+  <diagram name="Page-1" id="6SR97StFt6yoAgdbt9Tg">
+    <mxGraphModel dx="1345" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yqSg1igB9JhfgQ2RK_IM-3" edge="1" parent="1" source="yqSg1igB9JhfgQ2RK_IM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqSg1igB9JhfgQ2RK_IM-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqSg1igB9JhfgQ2RK_IM-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SCU member completes Data request form" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="yqSg1igB9JhfgQ2RK_IM-5" edge="1" parent="1" source="yqSg1igB9JhfgQ2RK_IM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqSg1igB9JhfgQ2RK_IM-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqSg1igB9JhfgQ2RK_IM-7" edge="1" parent="1" source="yqSg1igB9JhfgQ2RK_IM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqSg1igB9JhfgQ2RK_IM-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqSg1igB9JhfgQ2RK_IM-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Request is placed in a google sheet" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="yqSg1igB9JhfgQ2RK_IM-9" edge="1" parent="1" source="yqSg1igB9JhfgQ2RK_IM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqSg1igB9JhfgQ2RK_IM-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqSg1igB9JhfgQ2RK_IM-12" edge="1" parent="1" source="yqSg1igB9JhfgQ2RK_IM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqSg1igB9JhfgQ2RK_IM-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqSg1igB9JhfgQ2RK_IM-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Request reviewed by ethics" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="yqSg1igB9JhfgQ2RK_IM-14" edge="1" parent="1" source="yqSg1igB9JhfgQ2RK_IM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqSg1igB9JhfgQ2RK_IM-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqSg1igB9JhfgQ2RK_IM-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Request is picked up by an analyist" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="yqSg1igB9JhfgQ2RK_IM-10" edge="1" parent="1" source="yqSg1igB9JhfgQ2RK_IM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqSg1igB9JhfgQ2RK_IM-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqSg1igB9JhfgQ2RK_IM-18" edge="1" parent="1" source="yqSg1igB9JhfgQ2RK_IM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqSg1igB9JhfgQ2RK_IM-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqSg1igB9JhfgQ2RK_IM-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="If issue found discuss with analyst and update sheet" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="yqSg1igB9JhfgQ2RK_IM-19" edge="1" parent="1" source="yqSg1igB9JhfgQ2RK_IM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqSg1igB9JhfgQ2RK_IM-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqSg1igB9JhfgQ2RK_IM-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="If no issue found update sheet as compliant" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="yqSg1igB9JhfgQ2RK_IM-16" edge="1" parent="1" source="yqSg1igB9JhfgQ2RK_IM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqSg1igB9JhfgQ2RK_IM-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqSg1igB9JhfgQ2RK_IM-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Analyst completes request and contacts requesting SCU member" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="yqSg1igB9JhfgQ2RK_IM-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" value="Analyst completes Data Analysis Receipt form&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="yqSg1igB9JhfgQ2RK_IM-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" value="Ethicist completes a Ethical analysis receipt form" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="480" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
